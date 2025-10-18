@@ -1,0 +1,4 @@
+Player,Games played, Score
+John,5,40%
+Mike,7,45%
+Tello,3,30%

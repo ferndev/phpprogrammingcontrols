@@ -1,0 +1,26 @@
+{
+  "name": "ferndev/phpprogrammingcontrols",
+  "description": "Modern, secure, and flexible programming controls library for PHP 8.0+",
+  "keywords": ["html controls","php development"],
+  "homepage": "https://github.com/ferndev/phpprogrammingcontrols",
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": ">=8.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "authors": [
+    {
+      "name": "Ferndev",
+      "email": "ferndevct@gmail.com",
+      "role": "lead"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
